@@ -27,3 +27,5 @@ Just a place to share the extensions of vs code that I use daily.
 * TSLint
 
 * vscode-icons
+
+------
