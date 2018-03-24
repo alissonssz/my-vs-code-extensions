@@ -2,26 +2,26 @@
 
 Just a place to share the extensions of vs code that I use daily.
 
-For angular:
+**For angular:**
 
-Angular 5 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout]
+* Angular 5 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout]
 
-Angular Language Service
+* Angular Language Service
 
-Bracket Pair Colorizer
+* Bracket Pair Colorizer
 
-Debugger for Chrome 
+* Debugger for Chrome 
 
-GitLens — Git supercharged
+* GitLens — Git supercharged
 
-HTML Snippets
+* HTML Snippets
 
-htmltagwrap
+* htmltagwrap
 
-IntelliSense for CSS class names in HTML
+* IntelliSense for CSS class names in HTML
 
-Path Intellisense
+* Path Intellisense
 
-TSLint
+* TSLint
 
-vscode-icons
+* vscode-icons
