@@ -6,7 +6,7 @@ Just a place to share the extensions of vs code I use daily.
 #### **For angular development:**
 ------
 
-* Angular 5 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout]
+* Angular 5 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
 
 * Angular Language Service
 
