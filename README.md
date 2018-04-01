@@ -1,7 +1,7 @@
 # my-vs-code-extensions
 
 
-Just a place to share the extensions of vs code I use daily.
+Just a place to share the vscode's extensions I use daily.
 
 #### **For angular development:**
 ------
